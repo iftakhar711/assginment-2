@@ -1,4 +1,4 @@
-1.For run this application locally (npm run start) It Running on Port 5000.
+1.For run this application locally (npm run start:prod) It Running on Port 5000.
 
 2.For post user data (http://localhost:5000/api/users)
 
